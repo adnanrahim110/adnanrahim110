@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [adnan-personal-portfolio.netlify.app](adnan-personal-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [personalportfolio-adnan.netlify.app](personalportfolio-adnan.netlify.app)
 
 - 💬 Ask me about **Js/jQuery, HTML/CSS, Bootstrap, PHP**
 
