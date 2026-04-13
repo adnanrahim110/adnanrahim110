@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Adnan+Rahim&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Full-Stack+Web+Developer+%7C+50%B+Web+Apps+Shipped+Worldwide&descSize=16&descAlignY=78&descColor=e94560" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Adnan+Rahim&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Full-Stack+Web+Developer+%7C+50%2B+Web+Apps+Shipped+Worldwide&descSize=16&descAlignY=78&descColor=e94560" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&center=true&vCenter=true&width=700&height=55&duration=3500&pause=800&color=E94560&lines=Hey%2C+I'm+Adnan+Rahim+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Magpie+POS+%F0%9F%9A%80;40%2B+Web+Apps+Shipped+Worldwide" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&center=true&vCenter=true&width=700&height=55&duration=3500&pause=800&color=E94560&lines=Hey%2C+I'm+Adnan+Rahim+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Magpie+POS+%F0%9F%9A%80;50%2B+Web+Apps+Shipped+Worldwide" />
 </div>
 
 <div align="center">
